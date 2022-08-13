@@ -440,8 +440,8 @@
 
   .footer-filling {
     grid-template-areas: 
-    'footer-logo footer-form footer-form footer-form'
-    'footer-pay footer-pay footer-pay footer-pay';
+    'footer-logo footer-form footer-form footer-form footer-form footer-form'
+    'footer-pay footer-pay footer-pay footer-pay footer-pay footer-pay';
     max-width: 1200px;
     margin: 0 auto;
   }
